@@ -93,7 +93,8 @@ Here are some ideas to get you started:
 **NOTE:** Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=Rock-Moon&theme=shades-of-purple&show_icons=true&count_private=true" alt="Wy's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rock-Moon&theme=shades-of-purple&show_icons=true&count_private=true&hide=stars" alt="Wy's GitHub Stats">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true" alt="Wy's Used Language">
 </p>
 
 ## 👨‍💻 My GitHub activities of last 31 days.
