@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 𝑯𝒊, 𝑰'𝒎 ✨ [Wy]() ✨. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <!-- code.gif -->
-<img align="right" alt="GIF" src="https://github.com/Rock-Moon.Rock-Moon/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Rock-Moon/Rock-Moon/blob/master/code.gif?raw=true" width="500" height="320" />
 
 🛠️ **Languages and Tools:**
 <p>
